@@ -1,6 +1,7 @@
 # DAO-PI platform based on Java Agent DEvelopment platform (JADE &copy;)
 
-> Latest version of the JADE Platform, ready to be compiled with Maven 3.9.6 locally and using a Docker container, for versions Java8 and Java17 or higher. JADE is a registered trademark of TILAB.com [https://jade.tilab.com/](https://jade.tilab.com/). To be extended in the framework of the DAO-PI project to provide for a distributed autonomous supply chain network. 
+> Latest version of the JADE Platform, ready to be compiled with Maven 3.9.6 locally and using a Docker container, for versions Java8 and Java17 or higher. To be extended in the framework of the DAO-PI project to provide for a distributed autonomous supply chain network.
+> JADE is a registered trademark of TILAB.com [https://jade.tilab.com/](https://jade.tilab.com/). 
 
 ![JADE version 4.6.1 - revision 6874 ready to deploy in container](./images/logoJade.png)
 
