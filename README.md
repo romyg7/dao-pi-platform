@@ -30,11 +30,11 @@
 
 
 ```shell
-  git clone https://github.com/dpsframework/jade-platform.git
+  git clone https://github.com/romyg7/dao-pi-platform.git
 ```
 
 ```shell
-   cd jade-platform
+   cd dao-pi-platform
 ```
 
 
